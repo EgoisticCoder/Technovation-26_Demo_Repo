@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./technovation-banner.png" width="90%" alt="Technovation'26 — Web Development">
+  <img src="./technovation-banner.png" width="1280px" height = "640px" alt="Technovation'26 — Web Development">
 </p>
 
 <!-- Replace the path above with your own copy of the banner (place it at ./assets/technovation-banner.png in this repo) -->
