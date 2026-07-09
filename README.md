@@ -66,7 +66,6 @@ Clearly describe:
 - [ ] Real-time (WebSockets / WebRTC)
 - [ ] PWA / Offline support
 
-> Note: No internet was provided during the build window — call out here if you used your own hotspot for any API/AI-dependent feature.
 
 ---
 
