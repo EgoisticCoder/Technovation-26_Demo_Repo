@@ -82,7 +82,7 @@ Clearly describe:
 
 ## 🃏 Innovation Wildcard (Optional)
 
-Did you add something beyond the brief — a genuinely useful AI/API integration, or an edge case most teams would miss? Describe it here to be considered for bonus points at the jury's discretion.
+Did you add something beyond the brief — a genuinely useful feauture like AI/API integration, or an edge case most teams would miss? Describe it here to be considered for bonus points at the jury's discretion.
 
 > _Explain here, or delete this section if not applicable._
 
