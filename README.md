@@ -48,7 +48,7 @@ Clearly describe:
 
 - Why this angle on the problem — what's your specific take on the assigned topic?
 - Key technical challenges you hit during the 2-hour build
-- Any pivots or cuts you made to ship on time (be honest — judges ask about this in Round 2)
+- Any pivots or cuts you made to ship on time (be honest)
 
 ---
 
