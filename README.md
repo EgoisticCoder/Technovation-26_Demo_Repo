@@ -76,7 +76,7 @@ Clearly describe:
 - ✅ Feature 3
 - ✅ Feature 4
 
-*(Add screenshots or a short GIF if it helps the jury understand the UI fast — Round 1 is judged on UI/UX.)*
+*(Add screenshots or a short GIF to showcase your UI/UX or the preview of your website)*
 
 ---
 
