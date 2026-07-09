@@ -22,8 +22,8 @@
 
 | Name | Class & Section | GitHub / LinkedIn |
 |---|---|---|
-| Member 1 | `9-A` | `@handle` |
-| Member 2 | `9-A` | `@handle` |
+| Member 1 | `Your Class` | `@handle` |
+| Member 2 | `Your Class` | `@handle` |
 
 ---
 
