@@ -91,7 +91,7 @@ Did you add something beyond the brief — a genuinely useful feauture like AI/A
 ## 📽️ Submission Links
 
 - **Live Deployment Link (Mandatory):** [Paste link]
-- **PPT (Mandatory):** [Paste link]
+- **PPT (Recommended):** [Paste link]
 - **DOCX Project Write-up (Mandatory):** [Paste link]
 
 ---
@@ -141,5 +141,4 @@ How was the build? Any fun moments, close calls, or shout-outs to your teammate?
 
 ---
 
-### Judging Reference (for your own prep)
-Both rounds are scored on: **Relevance to Theme · Creativity & Originality · Technical Execution · Overall Presentation.** Round 1 = UI/UX. Round 2 = Functionality & Responsiveness, where you'll walk the jury through your code.
+
