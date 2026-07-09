@@ -2,6 +2,10 @@
   <img src="./technovation-banner.jpeg" width="4320" height="1440" alt="Technovation'26 — Web Development">
 </p>
 
+<p align="center">
+  <strong>Submission for Technovation'26 — Outreach: Web Development</strong><br>
+  M.P. Birla Foundation H.S. School · 27th July
+</p>
 <!-- Replace the path above with your own copy of the banner (place it at ./assets/technovation-banner.png in this repo) -->
 
 # 🚀 [Your Project Name Here]
